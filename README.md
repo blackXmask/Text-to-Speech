@@ -36,7 +36,6 @@ cd Text-to-Speech<img width="293" height="281" alt="c2" src="https://github.com/
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
-<img width="732" height="288" alt="Screenshot_2025-07-06_21-43-52" src="https://github.com/user-attachments/assets/10000e85-c5f5-4904-b4b8-d03eb0875bc9" />
 
 3. **Install dependencies:**
 
