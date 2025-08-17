@@ -1,0 +1,10 @@
+streamlit==1.35.0
+TTS==0.22.0
+deep-translator==1.11.4
+pydub==0.25.1
+openai-whisper==20231117
+torch>=1.10.0
+torchaudio>=0.10.0
+numpy>=1.21.0
+scipy>=1.7.0
+ffmpeg-python==0.2.0

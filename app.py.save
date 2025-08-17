@@ -1,0 +1,4 @@
+temp_file, "rb") as audio_file:
+            st.download_button("Download Audio", audio_file, file_name="voice.wav", mime="audio/wav")
+
+#        os.remove(temp_file)
